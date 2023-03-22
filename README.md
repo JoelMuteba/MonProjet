@@ -1,2 +1,2 @@
 # MonProjet
-Projet le cours de Assurance Qualité Logicielle Hiver 2023
+Projet le cours de Assurance Qualité Logicielle Hiver 2023.
